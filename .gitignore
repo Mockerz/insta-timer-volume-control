@@ -1,0 +1,11 @@
+.vs/
+*.ipch
+*.db
+*.opendb
+*.suo
+*.user
+*.log
+bin/
+obj/
+Debug/
+Release/
